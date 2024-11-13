@@ -1,7 +1,7 @@
 
 const toggle = document.querySelector(".menu-btn");
 const nav = document.querySelector(".menu");
-const class = ad_class.body;
+const ad_class = document.body;
 
 
 toggle.addEventListener("click", () => {
