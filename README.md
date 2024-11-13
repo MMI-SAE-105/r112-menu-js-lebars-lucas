@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Lebars
+- prénom : Lucas
+- URL Netlify : 
 
 # Travail
 
